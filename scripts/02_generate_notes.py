@@ -12,7 +12,7 @@ class Note(BaseModel):
     id: int = Field(..., ge=1, le=10)
     heading: str = Field(..., example="Mean Value Theorem")
     summary: str = Field(..., max_length=150)
-    page_ref: Optional[int] = Field(None, description="Page number in source PDF")
+    page_ref: Optional[str] = Field(None, description="Page reference in source PDF")
 
 def generate_notes():
     system = (
@@ -24,7 +24,7 @@ def generate_notes():
     user_prompt = "Based on the uploaded study materials, generate 10 revision notes as described."
 
     response = client.chat.completions.create(
-        model="gpt-4o-mini",
+        model="gpt-4",
         messages=[
             {"role": "system", "content": system},
             {"role": "user", "content": user_prompt},

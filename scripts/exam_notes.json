@@ -1,0 +1,66 @@
+{
+    "1": "Резюме хорошо структурировано — разделы Education, Experience, Projects и Skills четко разделены и легко читаются.",
+    "2": "Контактные данные (телефон, email, LinkedIn, GitHub) присутствуют и актуальны — это плюс.",
+    "3": "Хороший баланс между образованием и опытом: ты показываешь, что учишься, но уже активно применяешь знания на практике.",
+    "4": "Проекты разнообразны и показывают прогресс от простых решений (To-Do List) к более сложным (Social Network).",
+    "5": "Технические навыки впечатляют: хороший стек технологий, особенно наличие TypeScript, React и REST API.",
+    "6": "Опыт работы в IT-поддержке показывает, что ты можешь работать в команде и с реальными пользователями.",
+    "7": "Упоминание Tailwind CSS и Material UI — современно и востребовано на рынке.",
+    "8": "Некоторые фразы в опыте можно сделать более результат-ориентированными, например, «что улучшилось после твоих действий».",
+    "9": "Фреймворки и библиотеки немного повторяются (React указан дважды), можно сократить или уточнить.",
+    "10": "Нет раздела 'Цель' или 'Обо мне' — было бы полезно добавить краткое резюме целей или интересов."
+  }
+
+  {
+    "1": {
+      "title": "Introduction to Psychology",
+      "page": 1,
+      "summary": "Overview of psychology's history, key figures, and foundational concepts."
+    },
+    "2": {
+      "title": "Research Methods",
+      "page": 15,
+      "summary": "Types of research methods: experimental, correlational, observational, and surveys."
+    },
+    "3": {
+      "title": "Biopsychology",
+      "page": 30,
+      "summary": "Explains how biological processes influence behavior, covering the nervous system."
+    },
+    "4": {
+      "title": "Developmental Psychology",
+      "page": 47,
+      "summary": "Focuses on psychological growth from infancy to adulthood and major developmental theories."
+    },
+    "5": {
+      "title": "Cognitive Psychology",
+      "page": 62,
+      "summary": "Studies mental processes like memory, perception, and problem-solving."
+    },
+    "6": {
+      "title": "Social Psychology",
+      "page": 80,
+      "summary": "Examines how individuals influence and are influenced by social interactions."
+    },
+    "7": {
+      "title": "Abnormal Psychology",
+      "page": 95,
+      "summary": "Defines and categorizes mental disorders, discussing symptoms and treatment."
+    },
+    "8": {
+      "title": "Therapies and Treatments",
+      "page": 110,
+      "summary": "Covers various psychological therapies including cognitive-behavioral and psychodynamic approaches."
+    },
+    "9": {
+      "title": "Personality Theories",
+      "page": 125,
+      "summary": "Explores major theories of personality, including Freud, Jung, and trait theories."
+    },
+    "10": {
+      "title": "Psychological Assessment",
+      "page": 140,
+      "summary": "Discusses methods of evaluating psychological traits and disorders, including tests and interviews."
+    }
+  }
+  
